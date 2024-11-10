@@ -6,7 +6,7 @@
 
 Este projeto apresenta um modelo de planilha para gestão financeira familiar, com funcionalidades automatizadas para consolidar e visualizar gastos mensais. Os dados cobrem o período de janeiro a outubro de 2024, detalhando categorias como alimentação, despesas com educação e transporte, além de uma visualização gerencial com gráficos e uma tabela dinâmica.
 
-📄 [Clique aqui para baixar a planilha](https://github.com/seuusuario/planilha-financeira/blob/main/Gastos_Familia_Jan-Out-2024_Atualizado.xlsx)
+📄 [Clique aqui para baixar a planilha]([https://github.com/seuusuario/planilha-financeira/blob/main/Gastos_Familia_Jan-Out-2024_Atualizado.xlsx](https://github.com/andrederis/DIO-desafio-excel/blob/11c14c58724209d4e8f9e3f3307a49526dbc3903/Gastos_Familia_Jan-Out-2024_Atualizado.xlsx))
 
 ## 💻 Tecnologias utilizadas no projeto
 - **Microsoft Excel.
